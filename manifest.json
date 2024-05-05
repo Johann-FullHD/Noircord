@@ -1,0 +1,9 @@
+{
+    "name": "Noircord",
+    "description": "The typical discord theme, but darker",
+    "version": "1.0",
+    "author": "Johann_FullHD",
+    "theme": "Noircord.theme.css",
+    "consent": ["ext_listing"],
+    "license": "MIT"
+}
